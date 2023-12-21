@@ -10,7 +10,7 @@ model = pickle.load(open('random_forest_regression_model.pkl', 'rb'))
 
 @app.route('/', methods=['GET'])
 def Home():
-    return 'Hello BB'
+    return render_template('index.html')
 
 
 standard_to = StandardScaler()
