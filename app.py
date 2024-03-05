@@ -52,6 +52,7 @@ def predict():
         # return render_template('index.html',prediction_texts="Sorry you cannot sell this car")
         # else:
         # return render_template('index.html',prediction_text="You Can Sell The Car at {}".format(output))
+        # return render_template('index.html',prediction_text="You Can Sell The Car at {}".format(output))
         return jsonify({'your car sell': str(output)})
     else:
         return render_template('index.html')
