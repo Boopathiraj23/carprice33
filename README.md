@@ -1,3 +1,3 @@
-                                                       CAR PRICE PREDICTION
+                                                 CAR PRICE PREDICTION USING MACHINE LEARNIG
 
-It Is uesd to Predict a secondhand car price.Pridicting a price depends on their car travelled kilometers, Car model, Year purchasing a Car.
+It Is uesd to Predict a secondhand car price.Pridicting a price depends on their car travelled kilometers, Car model, Year purchasing a Car.To achive a car via algorithms such as Random Forst Regression.
